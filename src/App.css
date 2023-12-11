@@ -1,0 +1,4 @@
+.IdCard {
+    display: flex;
+    flex-direction: row;
+}
